@@ -21,9 +21,7 @@
     <section class="contact">
         <h3>联系方式</h3>
         <ul>
-            <li>邮箱: your.email@example.com</li>
-            <li>GitHub: <a href="https://github.com/yourusername" target="_blank">yourusername</a></li>
-            <li>Twitter: <a href="https://twitter.com/yourusername" target="_blank">@yourusername</a></li>
+            <li>邮箱: jeancber90@gmail.com</li>
         </ul>
     </section>
 
